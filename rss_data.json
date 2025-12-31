@@ -6,6 +6,13 @@
       "folder": "Pune News",
       "addedAt": "2025-12-31T16:37:11.254Z",
       "errorCount": 0
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "title": "Times of India",
+      "folder": "News",
+      "addedAt": "2025-12-31T16:38:31.526Z",
+      "errorCount": 0
     }
   ],
   "folders": [
