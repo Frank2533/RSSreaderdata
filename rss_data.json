@@ -473,6 +473,24 @@
       "isStarred": false
     },
     {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "'New normal': How India's 2025 'zero-tolerance' doctrine pushed terror outfits and Pakistan to the sidelines",
+      "link": "https://timesofindia.indiatimes.com/india/new-normal-how-indias-2025-zero-tolerance-doctrine-pushed-terror-outfits-and-pakistan-to-the-sidelines/articleshow/126273564.cms",
+      "author": "ABHISHEK MISHRA",
+      "description": "India's national security adopted a harder stance in 2025 following the brutal Pahalgam massacre. Prime Minister Modi declared a 'Yuddha' against terror, leading to Operation Sindoor, a significant counteroffensive targeting terror infrastructure deep inside Pakistan and PoK. Diplomatic and military actions were taken to hold Pakistan accountable for cross-border terrorism.",
+      "pubDate": "2025-12-31T13:49:38.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273555,imgsize-760078.cms",
+        "type": "image/jpeg",
+        "length": "760078"
+      },
+      "id": "b-vviXyTMrsvkBpbd7ObWg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
       "feedId": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg",
       "feedTitle": "Raj Shamani",
       "folder": "Raj shamani podcast",
@@ -1878,5 +1896,5 @@
     "maxItemsPerFeed": 50,
     "theme": "system"
   },
-  "lastUpdated": "2025-12-31T17:51:41.660Z"
+  "lastUpdated": "2025-12-31T17:58:42.486Z"
 }
