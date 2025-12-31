@@ -20,6 +20,13 @@
       "folder": "US News",
       "addedAt": "2025-12-31T17:27:43.565Z",
       "errorCount": 0
+    },
+    {
+      "url": "https://media.rss.com/actindo/feed.xml",
+      "title": "Actindo Commerce Innovation Talks",
+      "folder": "Commerce Podcast",
+      "addedAt": "2025-12-31T17:41:24.439Z",
+      "errorCount": 0
     }
   ],
   "folders": [
@@ -28,7 +35,8 @@
     "YouTube",
     "Podcasts",
     "Pune News",
-    "US News"
+    "US News",
+    "Commerce Podcast"
   ],
   "items": [
     {
