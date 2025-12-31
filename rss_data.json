@@ -15,7 +15,26 @@
     "Podcasts",
     "Pune News"
   ],
-  "items": [],
+  "items": [
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Delhi fog hits flight movements, two cancelled",
+      "link": "https://timesofindia.indiatimes.com/city/pune/delhi-fog-hits-flight-movements-two-cancelled/articleshow/126259261.cms",
+      "author": "",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/delhi-fog-hits-flight-movements-two-cancelled/articleshow/126259261.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259261.cms\" /></a>",
+      "pubDate": "2025-12-31T03:22:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259284,imgsize-29030.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "aHR0cHM6Ly90aW1lc29m",
+      "isRead": false,
+      "isStarred": false
+    }
+  ],
   "starred": [],
   "read": [],
   "settings": {
@@ -23,5 +42,5 @@
     "maxItemsPerFeed": 50,
     "theme": "system"
   },
-  "lastUpdated": "2025-12-31T16:35:51.358Z"
+  "lastUpdated": "2025-12-31T16:37:13.618Z"
 }
