@@ -13,6 +13,13 @@
       "folder": "News",
       "addedAt": "2025-12-31T16:38:31.526Z",
       "errorCount": 0
+    },
+    {
+      "url": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "title": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "addedAt": "2025-12-31T17:27:43.565Z",
+      "errorCount": 0
     }
   ],
   "folders": [
@@ -20,7 +27,8 @@
     "Tech",
     "YouTube",
     "Podcasts",
-    "Pune News"
+    "Pune News",
+    "US News"
   ],
   "items": [
     {
