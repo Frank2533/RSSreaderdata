@@ -27,6 +27,13 @@
       "folder": "Commerce Podcast",
       "addedAt": "2025-12-31T17:41:24.439Z",
       "errorCount": 0
+    },
+    {
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg",
+      "title": "Raj Shamani",
+      "folder": "Raj shamani podcast",
+      "addedAt": "2025-12-31T17:51:39.483Z",
+      "errorCount": 0
     }
   ],
   "folders": [
@@ -36,7 +43,8 @@
     "Podcasts",
     "Pune News",
     "US News",
-    "Commerce Podcast"
+    "Commerce Podcast",
+    "Raj shamani podcast"
   ],
   "items": [
     {
