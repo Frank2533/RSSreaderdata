@@ -32,6 +32,1536 @@
   ],
   "items": [
     {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "War and peace: Ukrainians share their wish for 2026; hope for 'hell' to end",
+      "link": "https://timesofindia.indiatimes.com/world/europe/war-and-peace-ukrainians-share-their-wish-for-2026-hope-for-hell-to-end/articleshow/126276008.cms",
+      "author": "TOI WORLD DESK",
+      "description": "",
+      "pubDate": "2025-12-31T17:22:06.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126276270,imgsize-1048698.cms",
+        "type": "image/jpeg",
+        "length": "1048698"
+      },
+      "id": "cxJ245KPv6jhqPyXVcJUBA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "?Leader of rare resolve?: What PM Modi wrote to Khaleda Zia?s son Tarique Rahman",
+      "link": "https://timesofindia.indiatimes.com/india/leader-of-rare-resolve-what-pm-modi-wrote-to-khaleda-zias-son-tarique-rahman-read-full-letter/articleshow/126274728.cms",
+      "author": "TOI NEWS DESK",
+      "description": "",
+      "pubDate": "2025-12-31T17:13:38.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274721,imgsize-505165.cms",
+        "type": "image/jpeg",
+        "length": "505165"
+      },
+      "id": "vEjXyGGDELHDMgL4yOLlvg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Explained: Who is Alaa Abd el-Fattah, and why is his return to the UK making headlines",
+      "link": "https://timesofindia.indiatimes.com/world/uk/explained-who-is-alaa-abd-el-fattah-and-why-is-his-return-to-the-uk-making-headlines/articleshow/126275737.cms",
+      "author": "TOI WORLD DESK",
+      "description": "Alaa Abd el-Fattah, once a symbol of Arab Spring idealism, now faces controversy in the UK after his release from Egyptian prison. His return ignited debate over old social media posts and the vetting process for his British citizenship. This episode highlights the complex challenges liberal democracies face when balancing humanitarian advocacy with national security.",
+      "pubDate": "2025-12-31T16:53:16.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275751,imgsize-27100.cms",
+        "type": "image/jpeg",
+        "length": "27100"
+      },
+      "id": "nBqZbDGHKTf2jZOKmeSXGw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Goa nightclub fire: Illegal salt pan structure, collusion with officials; what probe report revealed",
+      "link": "https://timesofindia.indiatimes.com/india/goa-nightclub-fire-illegal-salt-pan-structure-collusion-with-officials-what-probe-report-revealed/articleshow/126275712.cms",
+      "author": "TOI NEWS DESK",
+      "description": "A magisterial inquiry found a Goa nightclub, where 25 died in a fire, was illegally built on a salt pan and operated without valid permissions. Systemic failures and alleged collusion by local authorities were highlighted, as the village panchayat issued a license despite it not being renewed, allowing the club to continue functioning.",
+      "pubDate": "2025-12-31T16:50:03.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275729,imgsize-956422.cms",
+        "type": "image/jpeg",
+        "length": "956422"
+      },
+      "id": "K5n4Gh2HGhh2P7o0gerYRQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Cong slams arrest of Nagpur Christian priest; demands action against Bajrang Dal",
+      "link": "https://timesofindia.indiatimes.com/india/hate-filled-agenda-cong-slams-arrest-of-nagpur-christian-priest-demands-action-against-bajrang-dal/articleshow/126275380.cms",
+      "author": "TOI NEWS DESK",
+      "description": "Congress has slammed the BJP following the arrest of a Christian priest and 11 others in Nagpur during a prayer meeting, accusing the party of religious bigotry.  MP KC Venugopal and Kerala LoP VD Satheesan condemned the arrests, demanding the FIR be withdrawn and calling for action against Bajrang Dal activists. They highlighted concerns over minority rights and constitutional freedoms.",
+      "pubDate": "2025-12-31T16:28:02.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275410,imgsize-962412.cms",
+        "type": "image/jpeg",
+        "length": "962412"
+      },
+      "id": "mEsH5YGm5qexhuGHXu84UQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Karbi Anglong violence: Assam oppn seeks rehabilitation of victims; demads judicial probe",
+      "link": "https://timesofindia.indiatimes.com/india/karbi-anglong-violence-assam-opposition-seeks-rehabilitation-of-victims-submits-memo-to-governor-demads-judicial-probe/articleshow/126275411.cms",
+      "author": "TOI NEWS DESK",
+      "description": "Opposition parties in Assam have urged the governor for rehabilitation and compensation for families impacted by recent West Karbi Anglong violence. They demand upholding tribal land rights and fair treatment for all affected communities. The memorandum also calls for a judicial probe into the alleged destruction of evidence at the chief executive member's residence.",
+      "pubDate": "2025-12-31T16:25:14.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275505,imgsize-189150.cms",
+        "type": "image/jpeg",
+        "length": "189150"
+      },
+      "id": "YH85Gk__fF5q55y-Whavmw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Spreading 'falsehood' against Modi govt: Nadda hits out at Kharge",
+      "link": "https://timesofindia.indiatimes.com/india/spreading-falsehood-against-modi-govt-jp-nadda-hits-out-at-mallikarjun-kharge-calls-cong-president-self-obsessed/articleshow/126275394.cms",
+      "author": "TOI NEWS DESK",
+      "description": "BJP chief J.P. Nadda accused Congress president Mallikarjun Kharge of spreading falsehoods against the Modi government. Nadda refuted Kharge's allegations on MGNREGA, economy, and environmental issues, stating the people have rejected Congress's lies in multiple elections. He urged Kharge to introspect instead of spreading misinformation.",
+      "pubDate": "2025-12-31T16:23:57.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275775,imgsize-822828.cms",
+        "type": "image/jpeg",
+        "length": "822828"
+      },
+      "id": "oCvq9ARy4gXF12sbQrlNBQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Earthquake in Japan: Magnitude 6 quake jolts East of Noda; no immediate casualties",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/earthquake-in-japan-magnitude-6-quake-jolts-east-of-noda-no-immediate-casualties/articleshow/126275177.cms",
+      "author": "TOI WORLD DESK",
+      "description": "",
+      "pubDate": "2025-12-31T16:22:07.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275335,imgsize-692122.cms",
+        "type": "image/jpeg",
+        "length": "692122"
+      },
+      "id": "fvgYTojFOwnNEWcP62EmGw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Bengal polls 2026: Shah sets ground rules for BJP cadre; pushes grassroots drive",
+      "link": "https://timesofindia.indiatimes.com/india/bengal-polls-2026-amit-shah-sets-ground-rules-for-bjp-cadre-ahead-of-elections-pushes-grassroots-drive/articleshow/126274968.cms",
+      "author": "TOI NEWS DESK",
+      "description": "Union Home Minister Amit Shah has urged BJP representatives in West Bengal to intensify grassroots outreach, dedicating at least four days weekly to constituencies and holding daily street-corner meetings. He emphasized performance for ticket consideration and signaled a renewed role for former state chief Dilip Ghosh in the upcoming assembly elections.",
+      "pubDate": "2025-12-31T15:53:29.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275003,imgsize-733675.cms",
+        "type": "image/jpeg",
+        "length": "733675"
+      },
+      "id": "Ma5Ckema1NI-k--eKZMtvg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Set to be NYC mayor: Zohran Mamdani to assume office on New Year?s Da",
+      "link": "https://timesofindia.indiatimes.com/world/us/zohran-mamdani-to-assume-office-nyc-to-get-new-mayor-attorney-general-letitia-james-to-administer-midnight-oath/articleshow/126274987.cms",
+      "author": "TOI WORLD DESK",
+      "description": "Zohran Mamdani will be sworn in as New York City's new mayor on New Year's Day with two ceremonies. The first, a private family oath at the historic City Hall subway station, will be administered by Attorney General Letitia James. A public celebration with a second oath on the steps of City Hall, led by Senator Bernie Sanders, will follow.",
+      "pubDate": "2025-12-31T15:52:48.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126275002,imgsize-1264406.cms",
+        "type": "image/jpeg",
+        "length": "1264406"
+      },
+      "id": "1qevrvj1wtHCksUHsMD2nQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "VHT: Sarfaraz Khan slams 75-ball 157; Mumbai post 444, beat Goa by 87 runs",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sarfaraz-khan-slams-75-ball-157-as-mumbai-post-444-beat-goa-by-87-runs/articleshow/126274132.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "Sarfaraz, who was also among the runs in the Syed Mushtaq Ali Trophy, brought up a century off 56 balls, his third hundred in List A cricket. Mumbai piled up 444 for 8 and then limited Goa to 357 for 9.",
+      "pubDate": "2025-12-31T15:21:02.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274531,imgsize-22478.cms",
+        "type": "image/jpeg",
+        "length": "22478"
+      },
+      "id": "P4S_nEph68zZMrOv1L6_QA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Max Scherzer &amp; Erica May-Scherzer?s 2025 net worth: Inside $180m empire",
+      "link": "https://timesofindia.indiatimes.com/sports/mlb/news/max-scherzer-and-erica-may-scherzer-combined-net-worth-in-2025-a-closer-look-inside-mad-max-180-million-empire/articleshow/126269063.cms",
+      "author": "GLOBAL SPORTS DESK",
+      "description": "Max Scherzer, the formidable MLB pitcher, has amassed a $180 million net worth by 2025, a testament to his on-field dominance and shrewd financial planning. His career earnings are bolstered by strategic contracts and selective endorsements. Wife Erica May-Scherzer, a former player, significantly contributes to their philanthropic endeavors and family's financial stability.",
+      "pubDate": "2025-12-31T15:00:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126269049,imgsize-871595.cms",
+        "type": "image/jpeg",
+        "length": "871595"
+      },
+      "id": "DDPfzLloGls6wllLsI8Rag==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Ayesha Curry?s 'A+ wife move' for Stephen Curry goes viral online",
+      "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/fans-call-it-an-a-wife-move-as-ayesha-currys-gesture-toward-golden-state-warriors-star-stephen-curry-explodes-online/articleshow/126274300.cms",
+      "author": "SONAM PRASAD",
+      "description": "Ayesha Curry recently garnered widespread praise from fans for wearing her husband Stephen Curry's Davidson jersey during a visit to his alma mater. This heartwarming gesture, seen during a tribute to the NBA star, effectively silenced recent marriage rumors. Fans lauded her unwavering support and loyalty, highlighting the couple's strong bond.",
+      "pubDate": "2025-12-31T14:43:13.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274290,imgsize-40380.cms",
+        "type": "image/jpeg",
+        "length": "40380"
+      },
+      "id": "bxSXm7khY0HrrFF1Z1eFeg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "?New chapter? ahead: Bangladesh envoy on EAM's Dhaka visit; signals positive tone for bilateral ties",
+      "link": "https://timesofindia.indiatimes.com/india/new-chapter-ahead-bangladesh-envoy-on-eams-dhaka-visit-signals-positive-tone-for-bilateral-ties/articleshow/126274174.cms",
+      "author": "TOI NEWS DESK",
+      "description": "",
+      "pubDate": "2025-12-31T14:38:08.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274194,imgsize-1278239.cms",
+        "type": "image/jpeg",
+        "length": "1278239"
+      },
+      "id": "on2QKd0uXFNNVuXe3mDQag==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "US-based Doctor?s eye-opening post flags unsettling health reality of 2025",
+      "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/2025-didnt-scare-us-with-a-virus-it-scared-us-with-us-based-doctors-eye-opening-post-flags-unsettling-health-reality/articleshow/126274136.cms",
+      "author": "TOI LIFESTYLE DESK",
+      "description": "The year 2025 revealed health dangers beyond viruses. Extreme longevity proved detrimental. Air pollution impacted lungs and health year-round. Mental burnout caused physical harm. Isolation posed risks similar to smoking. Fitness obsessions led to injuries. Heat waves became deadly. Sleep debt damaged brains. AI questioned medical ethics. Health anxiety replaced tracking. Balance, not extremes, is the future.",
+      "pubDate": "2025-12-31T14:36:59.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274163,imgsize-1077347.cms",
+        "type": "image/jpeg",
+        "length": "1077347"
+      },
+      "id": "amqYK0RP3K8ME6YDzXOltQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Why Sensex, Nifty underperformed in 2025 &amp; where are they headed in 2026? Top points",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-2026-why-did-sensex-nifty-underperform-in-2025-where-are-indices-headed-next-year-top-things-to-know/articleshow/126273827.cms",
+      "author": "SHIVANGHI PAYAL",
+      "description": "Indian equities lagged global markets in 2025 due to muted corporate earnings, FII selling, and missed AI rally. Despite touching record highs, broader market sentiment remained subdued. Experts anticipate a stronger 2026, driven by domestic growth, potential FII return, and improved valuations, with Nifty and Sensex targets set higher.",
+      "pubDate": "2025-12-31T14:36:19.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274213,imgsize-1493148.cms",
+        "type": "image/jpeg",
+        "length": "1493148"
+      },
+      "id": "9m9Jvz9F3F4wXelf8MxPww==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Explained: How the Israel issue is splintering MAGA",
+      "link": "https://timesofindia.indiatimes.com/world/us/explained-how-the-israel-issue-is-splintering-maga/articleshow/126274166.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126274166.cms\" />Once a bedrock of Republican consensus, support for Israel is fracturing within the MAGA movement. This ideological split, fueled by generational, theological, and ideological differences, exposes fault lines and a disturbing rise in antisemitic rhetoric. The future of the right hinges on how this conflict over Israel is resolved.",
+      "pubDate": "2025-12-31T14:32:41.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274165,imgsize-789719.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "9-1-cQNx0VioSgUzyq7aiA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "VHT: Pant fails ahead of NZ ODI series selection; Odisha hand Delhi 1st defeat",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pant-fails-ahead-of-nz-odi-series-selection-odisha-hand-delhi-first-defeat-in-vijay-hazare-trophy/articleshow/126273117.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "Delhi?s campaign this season has largely depended on one strong batting effort in each game. The absence of such a performance on Wednesday not only cost them the match but also their position at the top of the points table, a setback that could affect them later in the tournament.",
+      "pubDate": "2025-12-31T14:05:08.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273586,imgsize-27592.cms",
+        "type": "image/jpeg",
+        "length": "27592"
+      },
+      "id": "PTrvwc8xq5cn4GQ6EvuPuQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Jagannath temple pulls 2026 calendars: Image shows deities in incorrect positions; triggers backlash",
+      "link": "https://timesofindia.indiatimes.com/india/jagannath-temple-pulls-2026-calendars-image-shows-deities-in-incorrect-positions-triggers-political-backlash/articleshow/126273607.cms",
+      "author": "TOI NEWS DESK",
+      "description": "The Jagannath temple administration in Puri has apologized and halted the sale of 2026 calendars after depicting the sibling deities in incorrect positions on the Ratna Singhasan. The administration attributed the error to a century-old manuscript, stating there was no intent to offend religious sentiments. Political parties criticized the inaccuracies, which also extended to the depiction of Rath Yatra chariots",
+      "pubDate": "2025-12-31T13:54:01.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273887,imgsize-62584.cms",
+        "type": "image/jpeg",
+        "length": "62584"
+      },
+      "id": "nQhRWQ50xsPJRaPqP2L3wg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Code to factory: Tech CEOs who went 'founder mode?; here's how they led the AI race",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsofts-satya-nadella-googles-sergey-brin-and-3-ceos-who-went-into-founder-mode-in-2025-and-how/articleshow/126272090.cms",
+      "author": "TOI TECH DESK",
+      "description": "Tech leaders are entering 'Founder Mode' in 2025. CEOs like Sergey Brin, Satya Nadella, Elon Musk, Mark Zuckerberg, and Brian Chesky are directly involved in their companies' AI strategies. They are making significant changes, from coding to restructuring, to win the AI race. This hands-on approach aims to secure future success in the rapidly evolving technology landscape.",
+      "pubDate": "2025-12-31T13:54:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126272077,imgsize-27612.cms",
+        "type": "image/jpeg",
+        "length": "27612"
+      },
+      "id": "-X6dUcWrxD0yz7iefB-SuA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "?Second fiddle? fantasy? Sorry, Beijing - US and India won't settle for silver",
+      "link": "https://timesofindia.indiatimes.com/india/india-us-china-relations-strategic-altruism-keji-mao-trumps-second-term-shift-on-india-india-and-china-relations/articleshow/126273059.cms",
+      "author": "TOI NEWS DESK",
+      "description": "A new narrative suggests China will lead, with the US and India vying for second. Analyst Keji Mao argues US \"strategic altruism\" towards India has ended due to American decline anxiety. However, the article counters that US decline is exaggerated, China's economic rise faces headwinds, and India is forging an independent path, leading to a complex, contested global order.",
+      "pubDate": "2025-12-31T13:53:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126274142,imgsize-1075489.cms",
+        "type": "image/jpeg",
+        "length": "1075489"
+      },
+      "id": "7xjOzIu3CDMIl6aVMxRtbw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Iran unrest: Governor?s office attacked as protests turn violent; video",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-unrest-governors-office-attacked-as-protests-turn-violent-video/articleshow/126273183.cms",
+      "author": "TOI WORLD DESK",
+      "description": "",
+      "pubDate": "2025-12-31T13:43:01.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273234,imgsize-732117.cms",
+        "type": "image/jpeg",
+        "length": "732117"
+      },
+      "id": "wlbIodxOEKNDrWEvRlErBw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "NFL trade rumours: Joe Burrow to Jets as Bengals land Fernando Mendoza",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-trade-rumors-joe-burrow-traded-to-new-york-jets-as-cincinnati-bengals-acquire-fernando-mendoza/articleshow/126273143.cms",
+      "author": "DR. ARATI KULKARNI SRIVASTAVA",
+      "description": "A wild NFL trade rumor suggests the Bengals could acquire Heisman winner Fernando Mendoza, potentially using Joe Burrow to secure five first-round picks from the Jets. While fans dismiss the idea, Mendoza's potential as a top prospect and the Bengals' defensive needs are explored. Burrow's massive contract complicates any such hypothetical move.",
+      "pubDate": "2025-12-31T13:32:01.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273135,imgsize-30240.cms",
+        "type": "image/jpeg",
+        "length": "30240"
+      },
+      "id": "D8P-zcaMHMcSvOnc6-KxlA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "India?US ties: Embassy shares key moments of 2025; eyes stronger year ahead",
+      "link": "https://timesofindia.indiatimes.com/india/indiaus-ties-us-embassy-shares-key-moments-of-2025-eyes-stronger-year-ahead/articleshow/126273102.cms",
+      "author": "TOI NEWS DESK",
+      "description": "The US Embassy in India celebrated a year of robust bilateral ties, highlighting key moments like Prime Minister Modi's meeting with President Trump and the signing of a major defense pact.  Discussions also covered space collaboration and leadership exchanges, underscoring a commitment to strengthening the partnership despite global challenges. Both nations look forward to continued cooperation.",
+      "pubDate": "2025-12-31T13:29:13.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273205,imgsize-940458.cms",
+        "type": "image/jpeg",
+        "length": "940458"
+      },
+      "id": "5EYWFovYwT-HrN7sQEwjXw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Big relief for consumers! IGL cuts piped cooking gas prices in Delhi-NCR; check new rates",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/big-relief-for-consumers-igl-cuts-down-png-prices-from-new-year-check-new-rate/articleshow/126273037.cms",
+      "author": "TOI BUSINESS DESK",
+      "description": "",
+      "pubDate": "2025-12-31T13:19:53.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126273089,imgsize-620737.cms",
+        "type": "image/jpeg",
+        "length": "620737"
+      },
+      "id": "3l8fQJ4Q3ynC8mQL2XNa_g==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "India?s ODI squad vs NZ: Gill to lead; Bumrah and Pandya likely to be rested",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-odi-squad-vs-new-zealand-shubman-gill-to-lead-jasprit-bumrah-and-hardik-pandya-likely-to-be-rested/articleshow/126272693.cms",
+      "author": "GAURAV GUPTA",
+      "description": "The Indian squad for the upcoming ODI series against New Zealand will be selected on January 3. The series begins on January 11 in Vadodara. Virat Kohli and Rohit Sharma are set to feature. Shubman Gill will lead the team. Hardik Pandya and Jasprit Bumrah may be rested for workload management. Dhruv Jurel is a potential wicketkeeper choice.",
+      "pubDate": "2025-12-31T13:04:19.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126272684,imgsize-185024.cms",
+        "type": "image/jpeg",
+        "length": "185024"
+      },
+      "id": "YXzDfnG0kCEi8wX0syM0uQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Stefon Diggs? viral proposal rehearsal sparks buzz amid Cardi B backlash",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/stefon-diggs-viral-proposal-rehearsal-comes-amid-cardi-b-backlash-and-relationship-scrutiny/articleshow/126272462.cms",
+      "author": "GLOBAL SPORTS DESK",
+      "description": "A viral video of Stefon Diggs appearing to propose to Cardi B on the field, later revealed as him fixing her gear, has reignited public interest in their relationship. This comes amid Cardi B addressing online criticism and Diggs facing felony assault charges, which he denies. The Patriots support him as the legal process unfolds.",
+      "pubDate": "2025-12-31T12:48:40.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126272506,imgsize-1686193.cms",
+        "type": "image/jpeg",
+        "length": "1686193"
+      },
+      "id": "WN2sUnVKLA6dfUhOtNSIzg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "New Labour codes: Draft rules out - how will salary, gratuity, allowances be calculated? Explained",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/new-labour-codes-draft-rules-pre-published-how-will-your-salary-wages-gratuity-allowances-be-calculated-faqs-released/articleshow/126272365.cms",
+      "author": "TOI BUSINESS DESK",
+      "description": "New Labour Codes: The Ministry of labour has released the draft labour codes on December 31, 2025. The new rules and a set of FAQs clarify wage, gratuity, allowances calculation. We take a look:",
+      "pubDate": "2025-12-31T12:46:08.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126272451,imgsize-30740.cms",
+        "type": "image/jpeg",
+        "length": "30740"
+      },
+      "id": "52GW0z813tmgs4a6muXLCw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Watch: Jalen Hurts? standout season goes viral as Eagles QB meets Jacklyn Romano",
+      "link": "https://timesofindia.indiatimes.com/sports/nfl/news/watch-jalen-hurts-standout-season-takes-viral-turn-as-eagles-qb-meets-fitness-influencer-and-reality-tv-star-jacklyn-romano/articleshow/126270186.cms",
+      "author": "GLOBAL SPORTS DESK",
+      "description": "Eagles quarterback Jalen Hurts was recently seen in a casual Instagram video with fitness influencer Jacklyn Romano, sporting matching tennis-style outfits. This off-field moment garnered attention during the Eagles' successful season, which culminated in Hurts being named Super Bowl MVP after leading his team to victory.",
+      "pubDate": "2025-12-31T12:15:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271681,imgsize-67492.cms",
+        "type": "image/jpeg",
+        "length": "67492"
+      },
+      "id": "D89soLj4ruQpR2CwUrQ4Xg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "?Reunification of our motherland unstoppable?: Xi?s message as Taiwan drills end; region on edge",
+      "link": "https://timesofindia.indiatimes.com/world/china/reunification-of-our-motherland-unstoppable-xi-jinpings-message-as-taiwan-drills-end-region-on-edge/articleshow/126271877.cms",
+      "author": "TOI WORLD DESK",
+      "description": "",
+      "pubDate": "2025-12-31T12:08:15.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271890,imgsize-982523.cms",
+        "type": "image/jpeg",
+        "length": "982523"
+      },
+      "id": "_DiYIHLYw2Z21uSamSe0NA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "CEO Scott Tannen's 7 cues that quietly tell employers you walked in casually",
+      "link": "https://timesofindia.indiatimes.com/education/careers/news/ceo-scott-tannen-asks-this-question-to-catch-unprepared-candidates-7-cues-that-quietly-tell-employers-you-walked-in-casually/articleshow/126270652.cms",
+      "author": "TOI Education",
+      "description": "Scott Tannen, CEO of Boll &amp; Branch, uses one early interview question to test seriousness. Candidates who cannot explain the company reveal more than ignorance?they signal indifference. Here, we examine the seven subtle cues that tell employers you came unprepared, and why curiosity, context and intent now separate strong applicants from the rest.",
+      "pubDate": "2025-12-31T11:36:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271374,imgsize-567533.cms",
+        "type": "image/jpeg",
+        "length": "567533"
+      },
+      "id": "ies7Khu0DRwB9ZlO82voMw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Pralay missile test: India conducts successful salvo launch off Odisha coast - watch",
+      "link": "https://timesofindia.indiatimes.com/india/pralay-missile-test-india-conducts-successful-salvo-launch-off-odisha-coast-watch/articleshow/126271179.cms",
+      "author": "TOI NEWS DESK",
+      "description": "India successfully conducted a salvo launch of two indigenously developed Pralay missiles off the coast of Odisha. The tests, conducted in quick succession from the same launcher, met all flight objectives, demonstrating the missile system's operational reliability and readiness for induction into the armed forces.",
+      "pubDate": "2025-12-31T11:35:16.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271368,imgsize-240069.cms",
+        "type": "image/jpeg",
+        "length": "240069"
+      },
+      "id": "UMSPSM3JznN6KQS88f6mSA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "BBL: Car breaks down, Perth Scorchers players push Uber to stadium ? Watch",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/big-bash-car-breaks-down-perth-scorchers-players-push-uber-to-stadium-watch/articleshow/126270870.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "Laurie Evans, Ashton Agar, Aaron Hardie and Mahli Beardman were travelling to the stadium in an Uber when the car broke down on the way. With the vehicle coming to a halt, the four players stepped out and pushed it in an effort to restart it, before getting back in and continuing their journey to the ground.",
+      "pubDate": "2025-12-31T11:29:02.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271174,imgsize-2911626.cms",
+        "type": "image/jpeg",
+        "length": "2911626"
+      },
+      "id": "IwO6ADMC6QEtjaccHFxq1Q==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "BJP shares video of brutal assault on woman in West Bengal; slams CM Mamata",
+      "link": "https://timesofindia.indiatimes.com/india/an-anti-women-state-bjp-shares-video-of-brutal-assault-on-woman-in-west-bengal-slams-mamata-banerjee/articleshow/126270802.cms",
+      "author": "TOI NEWS DESK",
+      "description": "BJP shared a video showing a woman and her family being brutally attacked with bamboo sticks in Uttar Bhangnamari village, Basanti block, South 24 Parganas, West Bengal. The main accused named are Jalil Laskar, Munna Laskar, and Arif Laskar. BJP leaders, including Amit Malviya, criticized the state government, claiming the attack reflects a failure of law and order and a lack of safety for women in West Bengal.",
+      "pubDate": "2025-12-31T11:23:23.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271068,imgsize-635568.cms",
+        "type": "image/jpeg",
+        "length": "635568"
+      },
+      "id": "3L6BMm9VPwN7wCOrEO6ZeQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "?Carefully planned?: Russia shares video of 'strike' on Putin residence; watch",
+      "link": "https://timesofindia.indiatimes.com/world/europe/carefully-planned-russia-shares-video-of-alleged-strike-on-putin-residence-watch/articleshow/126271064.cms",
+      "author": "TOI WORLD DESK",
+      "description": ".",
+      "pubDate": "2025-12-31T11:22:53.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126271049,imgsize-929077.cms",
+        "type": "image/jpeg",
+        "length": "929077"
+      },
+      "id": "gtX_DDscl2KKWGgIBIfK1Q==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "'Don?t let them decide'- Ex-England captain's message to Khawaja on Test retirement",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/wpl/smriti-mandhana-might-just-former-india-cricketer-drops-huge-prediction/articleshow/126270650.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "Former India opener Aakash Chopra backs Delhi Capitals to win the 2026 Women's Premier League. He also tips Royal Challengers Bengaluru captain Smriti Mandhana to dominate the batting charts and win the Orange Cap. Delhi Capitals' Shafali Verma is also a strong contender for the top run-scorer award.",
+      "pubDate": "2025-12-31T11:13:12.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126270226,imgsize-253270.cms",
+        "type": "image/jpeg",
+        "length": "253270"
+      },
+      "id": "2yKqJsHFhR5kTjTy4e664A==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "From Coldplay to AQI and Dhurandhar ? What India talked about in 2025",
+      "link": "https://timesofindia.indiatimes.com/india/yearender-2025-from-coldplay-to-aqi-and-dhurandhar-what-india-talked-about-in-2025/articleshow/126269967.cms",
+      "author": "KANCHAN YADAV",
+      "description": "2025 was a year of extremes for India, marked by the spiritual grandeur of the Maha Kumbh, a tragic stampede, and Bollywood actor Saif Ali Khan's stabbing. The year also saw significant policy shifts like zero income tax up to Rs 12 lakh and a strong counter-terror response with Operation Sindoor following the Pahalgam attack.",
+      "pubDate": "2025-12-31T10:50:10.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126270518,imgsize-69900.cms",
+        "type": "image/jpeg",
+        "length": "69900"
+      },
+      "id": "KruM_WJoTojla7HyPjfxzQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Pandya power: All-rounder goes on rampage; helps Baroda put 417 in Vijay Hazare",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/pandya-power-all-rounder-goes-on-rampage-helps-baroda-put-417-in-vijay-hazare-trophy/articleshow/126269646.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "The platform was laid by openers Nitya Pandya and Amit Pasi, who put together a 230-run stand for the first wicket. Nitya scored 122 from 110 balls, while Pasi made 127 from 93 deliveries, taking Hyderabad?s bowlers out of the game early.",
+      "pubDate": "2025-12-31T10:18:44.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126269799,imgsize-35674.cms",
+        "type": "image/jpeg",
+        "length": "35674"
+      },
+      "id": "FVzB18BXWZ6c5UG_CeLmhQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Nimesulide painkiller ban: Centre bars oral formulations over 100 mg, cites health risks",
+      "link": "https://timesofindia.indiatimes.com/india/nimesulide-painkiller-ban-centre-bars-oral-formulations-over-100-mg-cites-health-risks/articleshow/126268606.cms",
+      "author": "TOI NEWS DESK",
+      "description": "The central government has imposed an immediate ban on the manufacture, sale and distribution of all oral formulations of the painkiller nimesulide containing more than 100 mg in immediate-release form, citing risks to human health and the availability of safer alternatives. The decision, taken under the Drugs and Cosmetics Act after expert consultation, was notified by the health ministry. Separately, the ministry proposed changes to the Drugs Rules, inviting public feedback within 30 days.",
+      "pubDate": "2025-12-31T09:56:27.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126269146,imgsize-47749.cms",
+        "type": "image/jpeg",
+        "length": "47749"
+      },
+      "id": "eIYpNlSWEq5opULN9jq9Mw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Head hopes to revive Ashes drinks tradition with Eng; why it broke down in 2023",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/ashes/australias-travis-head-hopes-to-revive-post-ashes-drinks-tradition-with-england-why-it-broke-down-in-2023/articleshow/126269024.cms",
+      "author": "TOI SPORTS DESK",
+      "description": "Australian opener Travis Head expressed his hope for a return to the tradition of post-Ashes drinks between England and Australia.  He believes mutual respect exists despite past tensions, particularly after the Jonny Bairstow stumping incident in the 2023 series. Head looks forward to sharing a beer, highlighting the positive relationships between players on both sides.",
+      "pubDate": "2025-12-31T09:46:09.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126269097,imgsize-45234.cms",
+        "type": "image/jpeg",
+        "length": "45234"
+      },
+      "id": "od6Rcz8bvh058e7VHdU6xw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "'Deepest condolences': EAM attends Khaleda Zia's funeral; hands PM Modi?s letter to son Tarique",
+      "link": "https://timesofindia.indiatimes.com/india/khaleda-zia-funeral-eam-jaishankar-meets-bnps-tarique-rahman-in-dhaka-hands-pm-modis-condolence-letter/articleshow/126268901.cms",
+      "author": "TOI NEWS DESK",
+      "description": "India's external affairs minister S Jaishankar conveyed Prime Minister Modi's condolences to BNP Acting Chairman Tarique Rahman in Dhaka following the passing of former PM Begum Khaleda Zia. Jaishankar highlighted Zia's significant influence on India-Bangladesh ties and expressed optimism for future partnership development. India is officially participating in the funeral rites.",
+      "pubDate": "2025-12-31T09:32:31.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126268987,imgsize-470752.cms",
+        "type": "image/jpeg",
+        "length": "470752"
+      },
+      "id": "VDAep_iX-uLqdCIdsjH_vw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Trump's return, PM Modi's carpool &amp; Pikachu: Images that defined world politics in 2025",
+      "link": "https://timesofindia.indiatimes.com/india/trumps-return-pm-modis-carpool-pikachu-photos-that-defined-world-politics-in-2025/articleshow/126267884.cms",
+      "author": "KARAN MANRAL",
+      "description": "2025 was dominated by Donald Trump's return to the White House, with striking photographs capturing his inauguration and key diplomatic encounters. The year also saw significant moments like Trudeau's resignation, hostage releases, protests in Nepal, and strategic alliances forming between global leaders.",
+      "pubDate": "2025-12-31T09:05:56.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126268048,imgsize-31166.cms",
+        "type": "image/jpeg",
+        "length": "31166"
+      },
+      "id": "CX7PRHrQTQHIvapR-J5Ajg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "From memes to movements: How 2025 became the year of political awakening for Gen Z",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/from-memes-to-movements-how-2025-became-the-year-of-political-awakening-for-gen-z/articleshow/126257054.cms",
+      "author": "RAJEEV SINGH",
+      "description": "What began as side-eyeing governments for being ?pompous in power? escalated into calling them out, loudly and publicly. From campus corridors to capital streets, the Gen Z, largely mistaken as the ?nonchalants,? made it clear they were no longer willing to cope, stay low-key, or wait their turn. Across countries, young people discovered that turning up in person still mattered. That streets were not obsolete.",
+      "pubDate": "2025-12-31T08:53:28.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126265962,imgsize-65500.cms",
+        "type": "image/jpeg",
+        "length": "65500"
+      },
+      "id": "vTwNWFwNV9xJX-0FN-gXyw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Pune-based Ayurvedacharya Dr Harish Patankar honoured with the International Ayurveda Ratna Award",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pune-based-ayurvedacharya-dr-harish-patankar-honoured-with-the-international-ayurveda-ratna-award/articleshow/126265759.cms",
+      "author": "Swati Shinde",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pune-based-ayurvedacharya-dr-harish-patankar-honoured-with-the-international-ayurveda-ratna-award/articleshow/126265759.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126265759.cms\" /></a>Pune's Ayurvedacharya Dr. Harish Patankar received the prestigious International Ayurveda Ratna Award at the Second World Ayurveda Health Summit in Bengaluru. The award recognizes his extensive contributions to Ayurvedic practice, research, and education, and his global promotion of authentic Ayurveda. Dr. Patankar also delivered a lecture on applying classical Ayurvedic principles in modern clinical settings.",
+      "pubDate": "2025-12-31T06:30:45.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126265798,imgsize-90970.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "_xJAdndRmw70stS1BW-a2g==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Maharashtra civic polls: Who is Amol Balwadkar? Ex-BJP leader joins Ajit Pawar?s NCP after ticket denial",
+      "link": "https://timesofindia.indiatimes.com/city/pune/maharashtra-civic-polls-who-is-amol-balwadkar-ex-bjp-leader-joins-ajit-pawars-ncp-after-ticket-denial/articleshow/126265142.cms",
+      "author": "Swati Shinde",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/maharashtra-civic-polls-who-is-amol-balwadkar-ex-bjp-leader-joins-ajit-pawars-ncp-after-ticket-denial/articleshow/126265142.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126265142.cms\" /></a>Former BJP corporator Amol Balwadkar switched to the NCP after being denied a ticket at the last minute for the Pune civic polls. The NCP promptly fielded him, intensifying the election battle. Balwadkar expressed feeling betrayed by the BJP, vowing a \"do-or-die fight.\" This move underscores internal BJP rifts and makes the contest more dynamic.",
+      "pubDate": "2025-12-31T06:06:26.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126265249,imgsize-617512.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "hFpcQA2vLjxyahuvWdgYLQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "TOI Habit Index: India?s 2025 entertainment split - Netflix nights, reel breaks",
+      "link": "https://timesofindia.indiatimes.com/web-series/news/hindi/how-india-spent-its-screen-time-in-2025-the-battle-between-ott-reels-and-shorts/articleshow/126264616.cms",
+      "author": "TOI ENTERTAINMENT DESK",
+      "description": "India's screen time is dominated by OTT content, with Netflix leading viewership. Short-form videos like reels also capture significant attention, driven by a desire for relaxation and entertainment. Viewers are increasingly aware of digital fatigue, aiming to reduce aimless scrolling and screen time.",
+      "pubDate": "2025-12-31T05:29:25.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126264736,imgsize-79554.cms",
+        "type": "image/jpeg",
+        "length": "79554"
+      },
+      "id": "GsxqZhdZQnHnofC_URU96A==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Neuralink and parenting: Meta AI chief Alexandr Wang on kids; will wait until Neuralink advances",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-chief-alexandr-wang-says-will-have-kids-only-after-elon-musks-neuralink-/articleshow/126263932.cms",
+      "author": "TOI TECH DESK",
+      "description": "Meta's AI head, Alexandr Wang, revealed he will delay having children until advanced brain-computer interface (BCI) technology like Neuralink is widely available. Wang believes children's early neuroplasticity offers a prime window for intuitive BCI integration, potentially enabling future generations to learn and utilize superintelligence tools more effectively than adults.",
+      "pubDate": "2025-12-31T04:34:17.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126263915,imgsize-62350.cms",
+        "type": "image/jpeg",
+        "length": "62350"
+      },
+      "id": "DiPYSvjHsIJ7g5-sqiGv7g==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Two held for robbing Rs1cr jewellery from Khanapur store",
+      "link": "https://timesofindia.indiatimes.com/city/pune/two-held-for-robbing-rs1cr-jewellery-from-khanapur-store/articleshow/126259405.cms",
+      "author": "Gitesh Shelke",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/two-held-for-robbing-rs1cr-jewellery-from-khanapur-store/articleshow/126259405.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259405.cms\" /></a>",
+      "pubDate": "2025-12-31T04:21:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259420,imgsize-43580.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "hI1MF0__RDqE_SoG8ht9eg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "The printed calendar refuses to fade in India?s digital era",
+      "link": "https://timesofindia.indiatimes.com/city/pune/the-printed-calendar-refuses-to-fade-in-indias-digital-era/articleshow/126258992.cms",
+      "author": "Anjali Jhangiani",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/the-printed-calendar-refuses-to-fade-in-indias-digital-era/articleshow/126258992.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126258992.cms\" /></a>",
+      "pubDate": "2025-12-31T04:19:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259414,imgsize-89056.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "yLFnkD-h55TBbu92f9vRNg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Voters confused as civic polls turn into political musical chairs",
+      "link": "https://timesofindia.indiatimes.com/city/pune/voters-confused-as-civic-polls-turn-into-political-musical-chairs/articleshow/126259220.cms",
+      "author": "Swati Shinde Gole",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/voters-confused-as-civic-polls-turn-into-political-musical-chairs/articleshow/126259220.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259220.cms\" /></a>",
+      "pubDate": "2025-12-31T04:19:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259412,imgsize-75932.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "1p414oJb2eLl2zpZlQCnJw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "New Year morning likely to be chilly at 10?C: IMD",
+      "link": "https://timesofindia.indiatimes.com/city/pune/new-year-morning-likely-to-be-chilly-at-10c-imd/articleshow/126259155.cms",
+      "author": "",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/new-year-morning-likely-to-be-chilly-at-10c-imd/articleshow/126259155.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259155.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-117593586,imgsize-212910.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "q6KkMYpM-CmDC86bTB6Zpw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Ahead of polls, cops act against 5.5k criminals",
+      "link": "https://timesofindia.indiatimes.com/city/pune/ahead-of-polls-cops-act-against-5-5k-criminals/articleshow/126259421.cms",
+      "author": "Gitesh Shelke",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/ahead-of-polls-cops-act-against-5-5k-criminals/articleshow/126259421.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259421.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259451,imgsize-23970.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "pEx6hjyWH_RKLTfAmyWNsA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Govt makes 5am Xmas, New Year deadline an annual norm; shifts law-&amp;-order onus to pubs, hotels",
+      "link": "https://timesofindia.indiatimes.com/city/pune/govt-makes-5am-xmas-new-year-deadline-an-annual-norm-shifts-law-order-onus-to-pubs-hotels/articleshow/126259268.cms",
+      "author": "Neha Madaan",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/govt-makes-5am-xmas-new-year-deadline-an-annual-norm-shifts-law-order-onus-to-pubs-hotels/articleshow/126259268.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259268.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259411,imgsize-67364.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "MUwmrszszF5gIcNwBwQKtg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Pune cops deport 104 foreigners, 81 of them Bangladeshi",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pune-cops-deport-104-foreigners-81-of-them-bangladeshi/articleshow/126259066.cms",
+      "author": "Kanwardeep Singh",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pune-cops-deport-104-foreigners-81-of-them-bangladeshi/articleshow/126259066.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259066.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259408,imgsize-35784.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "JHcf-kR5GvKxmXRVCdGyew==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Impounded RMC truck stolen from police custody",
+      "link": "https://timesofindia.indiatimes.com/city/pune/impounded-rmc-truck-stolen-from-police-custody/articleshow/126259404.cms",
+      "author": "Gitesh Shelke",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/impounded-rmc-truck-stolen-from-police-custody/articleshow/126259404.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259404.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-117593595,imgsize-97249.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "D9ca4Xac65fdRVjB_L73Jw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Citizens group flags ?hurried? tender process for Balbharati-Paud Phata road; PMC denies charge",
+      "link": "https://timesofindia.indiatimes.com/city/pune/citizens-group-flags-hurried-tender-process-for-balbharati-paud-phata-road-pmc-denies-charge/articleshow/126259106.cms",
+      "author": "Neha Madaan",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/citizens-group-flags-hurried-tender-process-for-balbharati-paud-phata-road-pmc-denies-charge/articleshow/126259106.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259106.cms\" /></a>",
+      "pubDate": "2025-12-31T04:18:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259406,imgsize-9580.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "kW7s4cebwDMfxrTq8TZsRw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Dermats give tips as winter chill brings surge in skin concerns",
+      "link": "https://timesofindia.indiatimes.com/city/pune/dermats-give-tips-as-winter-chill-brings-surge-in-skin-concerns/articleshow/126259372.cms",
+      "author": "Steffy Thevar",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/dermats-give-tips-as-winter-chill-brings-surge-in-skin-concerns/articleshow/126259372.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259372.cms\" /></a>",
+      "pubDate": "2025-12-31T04:12:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259369,imgsize-21476.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "RFi9vxo1aU9N5ZrmLPKnAg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Indapur dacoity accused held",
+      "link": "https://timesofindia.indiatimes.com/city/pune/indapur-dacoity-accused-held/articleshow/126259354.cms",
+      "author": "",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/indapur-dacoity-accused-held/articleshow/126259354.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259354.cms\" /></a>",
+      "pubDate": "2025-12-31T04:10:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259352,imgsize-12932.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "RFNHhAiwqvVeyX1L8B3odQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Pune to ring in new year with parties, gatherings and community celebrations",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pune-to-ring-in-new-year-with-parties-gatherings-and-community-celebrations/articleshow/126259282.cms",
+      "author": "",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pune-to-ring-in-new-year-with-parties-gatherings-and-community-celebrations/articleshow/126259282.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259282.cms\" /></a>",
+      "pubDate": "2025-12-31T03:55:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259335,imgsize-66450.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "Ovl1T0TDkFGRjwxmjlMSKQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "PMPML to intensify breathalyser tests, crackdown on phone usage by drivers",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pmpml-to-intensify-breathalyser-tests-crackdown-on-phone-usage-by-drivers/articleshow/126259348.cms",
+      "author": "Joy Sengupta",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pmpml-to-intensify-breathalyser-tests-crackdown-on-phone-usage-by-drivers/articleshow/126259348.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259348.cms\" /></a>",
+      "pubDate": "2025-12-31T03:55:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259346,imgsize-39190.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "Z8Oa1Iw-AlpdwtMBUC4L7g==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Pimpri woman loses Rs 4.5 lakh to cybercrook posing as bank manager",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pimpri-woman-loses-rs-4-5-lakh-to-cybercrook-posing-as-bank-manager/articleshow/126259334.cms",
+      "author": "Mihir Tanksale",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pimpri-woman-loses-rs-4-5-lakh-to-cybercrook-posing-as-bank-manager/articleshow/126259334.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259334.cms\" /></a>",
+      "pubDate": "2025-12-31T03:55:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259332,imgsize-6430.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "tZfOV1XhZ0jzxR51YgTzdQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "After heavy crop loss, Junnar soyabean farmers find support in Nafed hub",
+      "link": "https://timesofindia.indiatimes.com/city/pune/after-heavy-crop-loss-junnar-soyabean-farmers-find-support-in-nafed-hub/articleshow/126259287.cms",
+      "author": "Sandip Dighe",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/after-heavy-crop-loss-junnar-soyabean-farmers-find-support-in-nafed-hub/articleshow/126259287.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259287.cms\" /></a>",
+      "pubDate": "2025-12-31T03:55:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259337,imgsize-100234.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "Yt2jXr463hx3OLNAmTFZrw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Aadhaar?PAN linking deadline ends today: How to link, penalty and other details",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/aadhaarpan-linking-deadline-ends-today-how-to-link-penalty-and-other-details/articleshow/126263295.cms",
+      "author": "TOI TECH DESK",
+      "description": "Linking your PAN card with Aadhaar is crucial to avoid penalties. The Income Tax department's portal guides you through a simple online process involving your PAN and Aadhaar numbers, followed by an OTP verification. Failure to link by December 31, 2025, will render your PAN inoperative, impacting tax refunds and leading to higher tax deductions and collections.",
+      "pubDate": "2025-12-31T03:40:27.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126263284,imgsize-1312225.cms",
+        "type": "image/jpeg",
+        "length": "1312225"
+      },
+      "id": "CvTyuNQjqSMOy1k9SJRf2w==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Pathare family split as husband-wife duo enters poll race on BJP tickets",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pathare-family-split-as-husband-wife-duo-enters-poll-race-on-bjp-tickets/articleshow/126259322.cms",
+      "author": "Swati Shinde Gole",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/pathare-family-split-as-husband-wife-duo-enters-poll-race-on-bjp-tickets/articleshow/126259322.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259322.cms\" /></a>",
+      "pubDate": "2025-12-31T03:39:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259318,imgsize-56092.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "-Gf8TaoEFYfJvabPa2WnAQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Alliance failures set stage for five-cornered contest in PCMC",
+      "link": "https://timesofindia.indiatimes.com/city/pune/alliance-failures-set-stage-for-five-cornered-contest-in-pcmc/articleshow/126259256.cms",
+      "author": "Alim Shaikh",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/alliance-failures-set-stage-for-five-cornered-contest-in-pcmc/articleshow/126259256.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259256.cms\" /></a>",
+      "pubDate": "2025-12-31T03:37:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259303,imgsize-23970.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "qxPYSyd3l_CtAVxQ4TMYBA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+      "feedTitle": "Pune News, Latest Pune News Headlines & Live Updates - Times of India",
+      "folder": "Pune News",
+      "title": "Delhi fog hits flight movements, two cancelled",
+      "link": "https://timesofindia.indiatimes.com/city/pune/delhi-fog-hits-flight-movements-two-cancelled/articleshow/126259261.cms",
+      "author": "Joy Sengupta",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/city/pune/delhi-fog-hits-flight-movements-two-cancelled/articleshow/126259261.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259261.cms\" /></a>",
+      "pubDate": "2025-12-31T03:22:00.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259284,imgsize-29030.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "fdvm9z1Lkr_kFWKbdMvqmQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "?Calling H-1B workers ?invaders? is political theatre?: Viral post slams Florida governor on workforce data",
+      "link": "https://timesofindia.indiatimes.com/world/us/calling-h-1b-workers-invaders-is-political-theatre-viral-post-slams-florida-governor-on-workforce-data/articleshow/126259511.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126259511.cms\" />A social media post challenges Florida Governor Ron DeSantis' immigration stance, refuting his 'invaders' label for H-1B workers. Citing workforce data, the post argues these skilled professionals fill critical labor gaps in Florida's booming economy, particularly in tech and healthcare. It emphasizes the visa program's strict regulations, countering the notion of open borders and highlighting the need for such talent.",
+      "pubDate": "2025-12-30T20:37:02.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126259514,imgsize-1015024.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "avE5Rhh2zHDK7GXjd5EgNw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Before Amazon, there was Toni Morrison: The mentor behind MacKenzie Scott?s $19 billion philanthropy",
+      "link": "https://timesofindia.indiatimes.com/world/us/before-amazon-there-was-toni-morrison-the-mentor-behind-mackenzie-scotts-19-billion-philanthropy/articleshow/126258266.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126258266.cms\" />Toni Morrison's mentorship profoundly shaped MacKenzie Scott's confidence and early career, influencing her path to Amazon and her current philanthropic approach. Scott has since donated over $19 billion, with a significant focus on Historically Black Colleges and Universities, echoing Morrison's lifelong commitments.",
+      "pubDate": "2025-12-30T18:44:09.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126258264,imgsize-60600.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "XgL6RRX0QjAW2MWvBSkDvg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Extreme attempt to ?get high?: Woman injects black widow venom and ends up in ICU",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/extreme-attempt-to-get-high-woman-injects-black-widow-venom-and-ends-up-in-icu/articleshow/126251226.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126251226.cms\" />A rare and deliberate exposure to black widow venom sent a 37-year-old woman to intensive care after she injected a ground-up spider into her bloodstream to get high. Doctors documented severe muscle pain, breathing distress and cardiovascular symptoms, likely intensified by an allergic reaction and an unusually high venom dose. The patient recovered after several days of supportive treatment.",
+      "pubDate": "2025-12-30T18:23:51.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126258052,imgsize-436308.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "1SiPwqo1qqCjXrAlcJIFog==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Is Mehek Cooke Indian? The most Googled questions about the Ohio attorney",
+      "link": "https://timesofindia.indiatimes.com/world/us/is-mehek-cooke-indian-the-most-googled-questions-about-the-ohio-attorney/articleshow/126256106.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126256106.cms\" />Mehek Cooke, an Indian-born Republican lawyer and strategist, is gaining national attention for her outspoken views on Medicaid fraud and conservative policy. Raised in Ohio, Cooke's dual heritage and prominent media presence spark discussions about identity and political alignment within the Republican party, particularly concerning immigration and cultural debates.",
+      "pubDate": "2025-12-30T16:36:51.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126256149,imgsize-31180.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "hyPQNgBTQFvpMA6T8My5Xw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "From Olympics to underworld: $40 million motorcycle collection of FBI?s most wanted fugitive Ryan Wedding seized",
+      "link": "https://timesofindia.indiatimes.com/world/us/from-olympics-to-underworld-40-million-motorcycle-collection-of-fbis-most-wanted-fugitive-ryan-wedding-seized/articleshow/126255138.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126255138.cms\" />Mexican authorities, in a major bust, seized a $40 million collection of luxury motorcycles believed to belong to former Olympian Ryan Wedding. The Canadian national, now on the FBI's Most Wanted list, is accused of running a vast cocaine trafficking operation. This seizure marks a significant blow to his alleged criminal network as the international manhunt intensifies.",
+      "pubDate": "2025-12-30T15:18:45.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126255211,imgsize-67648.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "f8SMrGOB22tpkXpm_A5jkg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "?Convert your grandfather first?: Nalin Haley criticised for urging Netanyahu to attend Catholic Mass",
+      "link": "https://timesofindia.indiatimes.com/world/us/convert-your-grandfather-first-nalin-haley-criticised-for-urging-netanyahu-to-attend-catholic-mass/articleshow/126254893.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126254893.cms\" />Nalin Haley's call for Israeli PM Netanyahu to attend Catholic Mass sparked backlash, with critics citing his family's Sikh roots and Nikki Haley's past \"Finish them\" message on artillery.  The controversy highlights debates on Christian nationalism and religion's role in diplomacy, with accusations of performative religiosity and selective moral signaling.",
+      "pubDate": "2025-12-30T14:58:59.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126254959,imgsize-36320.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "sTE70knP1VrPt_dedXC-vQ==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Super rare case: 17 year old teen wakes from knee surgery speaking only foreign language",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/super-rare-case-17-year-old-teen-wakes-from-knee-surgery-speaking-only-foreign-language/articleshow/126239422.cms",
+      "author": "TOI Trending Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126239422.cms\" />A 17-year-old boy in the Netherlands temporarily lost the ability to speak his native Dutch after waking from knee surgery, communicating only in English. Doctors diagnosed the rare condition as foreign language syndrome, a poorly understood phenomenon sometimes linked to anaesthesia. The episode resolved on its own within days, adding to a very small number of documented cases worldwide.",
+      "pubDate": "2025-12-30T08:33:30.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126248533,imgsize-731221.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "G1r6h1EkjGA0QXq9orIC3w==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "feedTitle": "Times of India",
+      "folder": "News",
+      "title": "Happy New Year 2026: 30+ Wishes, images, greetings, quotes and more",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/happy-new-year-2026-wishes-images-quotes-status-photos-sms-messages-card-gifs-wallpaper-pics-and-greetings/articleshow/126233537.cms",
+      "author": "TOI LIFESTYLE DESK",
+      "description": "As 2026 approaches, the article highlights the diverse ways people celebrate and express New Year's wishes. It emphasizes the value of simple, heartfelt messages, relatable quotes, and genuine status updates, alongside visual elements like images and wallpapers, to connect with loved ones during this transitional period.",
+      "pubDate": "2025-12-30T06:57:58.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126233537,imgsize-40224.cms",
+        "type": "image/jpeg",
+        "length": "40224"
+      },
+      "id": "TJnRrfjZNOSJ4k-kNc1Lqw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Kumail Nanjiani responds to viral rumor of affair with Michelle Obama",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/kumail-nanjiani-responds-to-viral-rumor-claiming-he-was-doing-it-with-michelle-obama/articleshow/126234405.cms",
+      "author": "TOI Trending Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126234405.cms\" />Kumail Nanjiani has addressed an internet rumour claiming he was having an affair with Michelle Obama, calling it absurd and false. Speaking on the So True podcast, he said the claim even reached his wife, Emily V. Gordon, despite the fact he has never met Obama. Nanjiani treated the episode with humour while firmly shutting it down.",
+      "pubDate": "2025-12-29T15:57:43.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126235466,imgsize-988872.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "zZXhGVnowe77LaGhwaVC8Q==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Silicon Valley ?on the menu?: Trump?s AI czar David Sacks issues warning to big tech",
+      "link": "https://timesofindia.indiatimes.com/world/us/silicon-valley-on-the-menu-trumps-ai-czar-david-sacks-issues-warning-to-big-tech/articleshow/126232962.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126232962.cms\" />David Sacks, Trump's AI and crypto advisor, warns Silicon Valley faces repercussions for its past political funding of left-leaning causes. He argues that years of financial support for progressive initiatives have not shielded the tech industry from rising populist anger, increased regulation, and new tax proposals.",
+      "pubDate": "2025-12-29T12:59:53.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126232989,imgsize-40658.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "CiFocpDKk73a1y8lHOGIfg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Why Karoline Leavitt?s pregnancy is so rare in American ? and world politics",
+      "link": "https://timesofindia.indiatimes.com/world/us/why-karoline-leavitts-pregnancy-is-so-rare-in-american-and-world-politics/articleshow/126221992.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126221992.cms\" />Karoline Leavitt's quiet announcement of her second pregnancy highlights the unusual intersection of political power and motherhood. While pregnancy is common, its open presence in high office remains rare, exposing how political systems often penalize bodies requiring flexibility. This moment underscores the slow adaptation of institutions to realities millions navigate daily.",
+      "pubDate": "2025-12-28T23:36:14.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126221994,imgsize-77750.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "0ZjIzUbEKWIoiYeUou9dtg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "After the storm: Barron Trump spotted at Mar-a-Lago weeks after Tate-linked controversy and manosphere scrutiny",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-the-storm-barron-trump-spotted-at-mar-a-lago-weeks-after-tate-linked-controversy-and-manosphere-scrutiny/articleshow/126217883.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126217883.cms\" />Barron Trump made a rare public appearance at Mar-a-Lago's Christmas gathering, weeks after reports linked him to figures associated with controversial online personalities. Seen with family, his sighting follows a New York Times expos? detailing his reported friendship with an influencer connected to the Tate brothers, who face serious allegations.",
+      "pubDate": "2025-12-28T17:26:30.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126217888,imgsize-9788.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "mu-F7k7eU898A7TwELn4Ag==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "With days left on Baba Vanga?s 2025 alien prediction, scientists explain what first contact would look like",
+      "link": "https://timesofindia.indiatimes.com/science/with-days-left-on-baba-vangas-2025-alien-prediction-scientists-explain-what-first-contact-would-look-like/articleshow/126207752.cms",
+      "author": "TOI Science Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126207752.cms\" />A new hypothesis from Columbia University astrophysicist David Kipping suggests humanity?s first sign of alien life won?t be a greeting, but evidence of collapse. Drawing on astronomy?s detection bias, he argues we?re most likely to notice civilisations at their loudest and most unstable moments, not at their peak, a bleak twist on decades of first-contact expectations.",
+      "pubDate": "2025-12-28T08:15:59.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126213389,imgsize-955118.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "DoTyiJQMPM-w0k1F_-KeTw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Mora Namdar's net worth, education and love life: What to know about Trump's new Secretary for Consular Affairs",
+      "link": "https://timesofindia.indiatimes.com/world/us/mora-namdars-net-worth-education-and-love-life-what-to-know-about-trumps-new-secretary-for-consular-affairs/articleshow/126207381.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126207381.cms\" />Mora Namdar, an Iranian-American lawyer and beauty salon owner, takes on a key role in the Trump administration. She will now lead the Bureau of Consular Affairs, overseeing vital services like visas and passports. Namdar's appointment follows her previous roles within the State Department and the US Agency for Global Media.",
+      "pubDate": "2025-12-27T17:54:17.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126207476,imgsize-23468.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "nq5HheIRScb6A7csNjcVSw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Why Will Byers? gay confession has MAGA viewers fuming and Stranger Things fans split",
+      "link": "https://timesofindia.indiatimes.com/web-series/news/english/why-will-byers-gay-confession-has-maga-viewers-fuming-and-stranger-things-fans-split/articleshow/126203089.cms",
+      "author": "TOI Entertainment Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126203089.cms\" />Stranger Things' final season faced backlash for Will Byers' coming-out scene, criticized for its timing and perceived narrative interruption. While some defended it as crucial for Will's character arc and weakening Vecna, many viewers felt it stalled the apocalypse for a monologue they already understood, leading to accusations of forced messaging.",
+      "pubDate": "2025-12-27T17:47:48.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126207445,imgsize-581902.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "6YW2JKQFlTVidSrpiT1yoA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "Meet Jayshree Ullal: Indian-origin billionaire at the top of Hurun's rich list",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-jayshree-ullal-indian-origin-billionaire-at-the-top-of-huruns-rich-list/articleshow/126206287.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126206287.cms\" />Jayshree Ullal, CEO of Arista Networks, leads India's richest tech executives for 2025. She has surpassed Sundar Pichai and Satya Nadella. Ullal's net worth is $5.7 billion. Her company's revenue was $7 billion in 2024. The AI and software services boom has boosted her wealth. Ullal is an exemplary leader in a male-dominated industry. Read here to know more!",
+      "pubDate": "2025-12-27T15:58:15.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126206284,imgsize-30470.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "yQFP2119H0vvpF3ODtkodA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "NFL argument turns fatal: Florida man kills wife, shoots stepdaughter in the face, then himself after football match dispute",
+      "link": "https://timesofindia.indiatimes.com/world/us/nfl-argument-turns-fatal-florida-man-kills-wife-shoots-stepdaughter-in-the-face-then-himself-after-football-match-dispute/articleshow/126198482.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126198482.cms\" />A Florida man, fueled by alcohol and an NFL game dispute, fatally shot his wife and critically wounded his teenage stepdaughter before taking his own life. The 12-year-old son escaped to a neighbor's, hearing the gunshots.  Authorities found a note from the wife urging him to seek help for substance abuse. The surviving children are safe with grandparents.",
+      "pubDate": "2025-12-27T01:48:51.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126198497,imgsize-143476.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "aREOcGI6vGTTGYuKea5jGg==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "?People will die??: Elon Musk slams Zohran Mamdani?s appointment of first openly gay FDNY commissioner",
+      "link": "https://timesofindia.indiatimes.com/world/us/people-will-die-elon-musk-slams-zohran-mamdanis-appointment-of-first-openly-gay-fdny-commissioner/articleshow/126198316.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126198316.cms\" />Elon Musk criticized Zohran Mamdani's appointment of Lillian Bonsignore as FDNY commissioner, warning of potential public safety risks. Musk argued that proven firefighting experience is crucial for leadership, while supporters highlight Bonsignore's extensive EMS background and managerial expertise. The debate centers on whether direct firefighting experience or broader emergency management is more vital for the role.",
+      "pubDate": "2025-12-27T00:38:23.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126198330,imgsize-30450.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "0zjC5M2M7Icw__TmsY9qfA==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
+      "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
+      "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
+      "folder": "US News",
+      "title": "California?s tech exodus: Entrepreneur warns of a deeper political crisis as tax losses ?hit $200 billion?",
+      "link": "https://timesofindia.indiatimes.com/world/us/californias-tech-exodus-entrepreneur-warns-of-a-deeper-political-crisis-as-tax-losses-hit-200-billion/articleshow/126195833.cms",
+      "author": "TOI World Desk",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/126195833.cms\" />Tech mogul Chamath Palihapitiya warns California faces a deepening crisis as major companies depart, costing billions in lost tax revenue. He blames a hostile political climate towards innovation, citing Elon Musk's move to Texas. Palihapitiya argues this exodus weakens the state's job market and tax base, urging reforms to avoid severe financial stress.",
+      "pubDate": "2025-12-26T20:36:12.000Z",
+      "enclosure": {
+        "url": "https://static.toiimg.com/photo/msid-126195901,imgsize-14754.cms",
+        "type": "image/jpeg",
+        "length": 0
+      },
+      "id": "5ZfkrtnAuTxY9V4JsscJgw==",
+      "isRead": false,
+      "isStarred": false
+    },
+    {
       "feedId": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms",
       "feedTitle": "US News Headlines, Latest USA News, US news live on Times of India",
       "folder": "US News",
@@ -45,7 +1575,7 @@
         "type": "image/jpeg",
         "length": 0
       },
-      "id": "aHR0cHM6Ly90aW1lc29m",
+      "id": "MVZCWgxNZpayBo789z6KFw==",
       "isRead": true,
       "isStarred": false
     }
@@ -57,5 +1587,5 @@
     "maxItemsPerFeed": 50,
     "theme": "system"
   },
-  "lastUpdated": "2025-12-31T17:29:59.194Z"
+  "lastUpdated": "2025-12-31T17:30:48.694Z"
 }
