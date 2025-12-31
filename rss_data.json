@@ -1894,7 +1894,7 @@
     "retentionDays": 14,
     "maxItemsPerFeed": 50,
     "theme": "system",
-    "googleSheetId": "https://docs.google.com/spreadsheets/d/1VMY_pCf-HBn4ILi27BG5HCEhWhZQgFQo8HBIZhZ8Jf8/edit?usp=sharing"
+    "googleSheetId": "1VMY_pCf-HBn4ILi27BG5HCEhWhZQgFQo8HBIZhZ8Jf8"
   },
   "lastUpdated": "2025-12-31T17:58:42.486Z"
 }
